@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "School-acbT.aternos.me:13594",
+    "ip": "School-acbT.aternos.me",
     "port": 13594,
     "version": "",
     "try-creative": false
